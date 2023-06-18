@@ -22,3 +22,22 @@ ABC ÜRÜN ADI GİRİLECEK
 ## Ürün Açıklaması
 
 ÜRÜN AÇIKLAMASI GİRİLECEK
+
+## Ürün Özellikleri
+
+ÜRÜN ÖZELLİĞİ
+
+## Hedef Kitle
+
+HEDEF KİTLEMİZ?
+
+## Juriye Not
+
+
+
+
+---
+
+# Sprint 1
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: .... PUAN
