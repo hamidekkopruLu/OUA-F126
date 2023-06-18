@@ -13,7 +13,7 @@ Takım Flutter 126
   
 ## Ürün İsmi
 
-ABC ÜRÜN ADI GİRİLECEK
+BMI Master
 
 ## Product Backlog URL
 
