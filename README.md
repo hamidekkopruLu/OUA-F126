@@ -28,12 +28,15 @@ BMI Master
 
 - Kolay erişim.
 - Uzmanlardan BMI'ya göre tavsiye verilmesi.
-- 
+-
 - 
 
 ## Hedef Kitle
 
-
+- Fiziksel olarak hastaneye gidemeyecek vatandaşlar.
+- Bireysel vücut geliştiricileri.
+- Sağlık bilinci yüksek insanlar.
+- Uzman doktorlar.
 
 
 
