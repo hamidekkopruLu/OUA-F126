@@ -49,7 +49,10 @@ BMI Master
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 PUAN
 
 
-- **Puan tamamlama mantığı**:İlk sprint için 100 puan olarak belirledik.Sprint toplamlarına 500 puan şeklinde planladık.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 500 puanlık backlog bulunmaktadır.İlk sprint için 100 puan olarak belirledik.
  
 
  - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp grubunda ön hazırlığı yapıldı. Proje hakkında fikir alışverişi tamamlandı. Google Meet toplantısında da kesin kararlar verildi.
+
+ - - **Sprint board update**: Sprint board screenshotları:
+     
