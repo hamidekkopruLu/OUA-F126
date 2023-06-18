@@ -26,11 +26,14 @@ BMI Master
 
 ## Ürün Özellikleri
 
-
+- Kolay erişim.
+- Uzmanlardan BMI'ya göre tavsiye verilmesi.
+- 
+- 
 
 ## Hedef Kitle
 
-HEDEF KİTLEMİZ?
+
 
 
 
