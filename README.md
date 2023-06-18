@@ -17,7 +17,8 @@ BMI Master
 
 ## Product Backlog URL
 
-(BURAYA MİRO LİNKİ )
+[Takım Flutter 126 Miro Backlog Board]
+
 
 ## Ürün Açıklaması
 
