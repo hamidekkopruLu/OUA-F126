@@ -56,7 +56,7 @@ BMI Master
 
   - **Sprint board update**: Sprint board screenshotları:
   - 
-    ![Backlog 1](![image](https://github.com/hamidekkopruLu/OUA-F126/assets/136333627/5387b58d-fd4f-4322-b6f7-00cf9f733287)
+    ![Backlog 1]((https://github.com/hamidekkopruLu/OUA-F126/assets/136333627/5387b58d-fd4f-4322-b6f7-00cf9f733287)
 
 
      
