@@ -43,7 +43,7 @@ HEDEF KİTLEMİZ?
 - **Sprint içinde tamamlanması tahmin edilen puan**: .... PUAN
 
 
-  - **Puan tamamlama mantığı**: ....
+- **Puan tamamlama mantığı**: ....
  
 
     - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır.
