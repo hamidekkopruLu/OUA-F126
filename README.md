@@ -46,7 +46,7 @@ BMI Master
 
 # Sprint 1
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: .... PUAN
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 PUAN
 
 
 - **Puan tamamlama mantığı**: ....
