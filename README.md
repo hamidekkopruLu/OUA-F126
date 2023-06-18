@@ -31,7 +31,6 @@ ABC ÜRÜN ADI GİRİLECEK
 
 HEDEF KİTLEMİZ?
 
-## Juriye Not
 
 
 
