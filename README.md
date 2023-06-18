@@ -21,11 +21,11 @@ BMI Master
 
 ## Ürün Açıklaması
 
-ÜRÜN AÇIKLAMASI GİRİLECEK
+İnsanların kolaylıkla boy ve kilosunu girerek vücut kitle endekslerine göre tavsiye alacakları bir uygulama.
 
 ## Ürün Özellikleri
 
-ÜRÜN ÖZELLİĞİ
+
 
 ## Hedef Kitle
 
