@@ -62,7 +62,7 @@ BMI Master
   - 2.sprinte kadar örnek bir taslak oluşturulacak.
  
 - **Sprint Review**:
--  Alınan kararlar: Uygulama taslağa çıkarılarak uygulamanın kod yazma kısmına geçiş yapılacak.
+  -  Alınan kararlar: Uygulama taslağa çıkarılarak uygulamanın kod yazma kısmına geçiş yapılacak.
 
 
 
