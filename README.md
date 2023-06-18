@@ -58,6 +58,9 @@ BMI Master
     
 ![image](https://github.com/hamidekkopruLu/OUA-F126/assets/136333627/b222bf96-322d-4be2-895a-0ce965f84ba4)
 
+- **Ürün Durumu**:
+ - 2.sprinte kadar örnek bir taslak oluşturulacak.
+
 
 
      
