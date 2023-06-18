@@ -54,9 +54,9 @@ BMI Master
 
  - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp grubunda ön hazırlığı yapıldı. Proje hakkında fikir alışverişi tamamlandı. Google Meet toplantısında da kesin kararlar verildi.
 
-  - **Sprint board update**: Sprint board screenshotları:
-  - 
-    ![image](https://github.com/hamidekkopruLu/OUA-F126/assets/136333627/c4039268-6a83-4475-8572-f544f383806a)
+  - **Sprint board update**: Sprint board screenshotı:
+    
+ ![image](https://github.com/hamidekkopruLu/OUA-F126/assets/136333627/c4039268-6a83-4475-8572-f544f383806a)
 
 
 
