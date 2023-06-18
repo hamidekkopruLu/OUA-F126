@@ -1,6 +1,6 @@
 # **Takım İsmi**
 
-Takım Fulutter 126
+Takım Flutter 126
 
 # Ürün İle İlgili Bilgiler
 
