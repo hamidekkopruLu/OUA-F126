@@ -64,6 +64,7 @@ BMI Master
 ![image](https://github.com/hamidekkopruLu/OUA-F126/assets/136333627/b222bf96-322d-4be2-895a-0ce965f84ba4)
 
 - **Ürün Durumu**:  Ekran Görüntüleri:
+  
 ![image](https://github.com/hamidekkopruLu/OUA-F126/assets/114291299/0915b9c2-e5a6-4e30-9650-038939a62783)
 
  
