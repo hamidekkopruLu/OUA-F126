@@ -30,6 +30,9 @@ BMI Master
 - Uzmanlardan BMI'ya göre tavsiye verilmesi.
 - İnsanların ilgili yerlere gidip bu işlemleri gerçekleştirme sürelerini kısaltma.
 - Sağlık alanında yetkili olan/olmayan kişilerin hızlı,net ve faydası dokunabilecek bilgiler alabilmesi.
+- Sağlıklı beslenmeye teşvik etmesi.
+  
+  
 
 ## Hedef Kitle
 
