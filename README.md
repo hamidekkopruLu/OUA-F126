@@ -74,7 +74,7 @@ BMI Master
  - **Sprint Retrospective:**
  
    - Uygulama içi bilgiler kısmında neler olmalı yeniden değerlendirilmesi gerektiği kanısına vardık.
-   - Takım üyelerinin Miro alanımızı takip etmeleri vurgulanmıştır.
+   - Takım üyelerinin aktif olarak Miro alanımızı takip etmeleri vurgulandı.
      
 
   
