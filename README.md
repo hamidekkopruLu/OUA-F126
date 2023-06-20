@@ -73,7 +73,7 @@ BMI Master
 
  - **Sprint Retrospective:**
    
-   -Uygulama içi bilgiler kısmında neler olmalı yeniden değerlendirilmesi gerektiği kanısına vardık.
+    -Uygulama içi bilgiler kısmında neler olmalı yeniden değerlendirilmesi gerektiği kanısına vardık.
    - Takım üyelerinin Miro alanımızı takip etmeleri vurgulanmıştır.
      
 
