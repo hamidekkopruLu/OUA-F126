@@ -69,8 +69,14 @@ BMI Master
 
  
 - **Sprint Review**:
-  -  Alınan kararlar: Uygulama taslağı çıkarılarak uygulamanın kod yazma kısmına geçiş yapılacak.
+  -  Alınan kararlar: Uygulama taslağı çıkarılarak uygulamanın kod yazma kısmına tam olarak geçiş yapılacak.
 
+   - **Sprint Retrospective:**
+    -Uygulama içi bilgiler kısmında neler olmalı yeniden değerlendirilmesi gerektiği kanısına vardık.
+   - Takım üyelerinin Miro alanımızı takip etmeleri vurgulanmıştır.
+     
+
+  
 
 
      
