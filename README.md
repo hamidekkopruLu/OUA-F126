@@ -51,6 +51,8 @@ BMI Master
 
 # Sprint 1
 
+- **Sprint Notları**: BMI Master uygulamasının sadece başlıkların yer aldığı bir ekranını oluşturmayı hedefliyoruz. Kullanıcıya boy ve kilo giriş alanlarını göstererek, kullanıcının bu değerleri girmesini sağlayacağız.
+
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 PUAN
 
 
