@@ -104,10 +104,10 @@ BMI Master
 - **Ürün Durumu**:Ekran görüntüleri:
 
  - **Sprint Review**:
-Alınan kararlar:
+Alınan kararlar: 
 Sprint Review katılımcıları:
 
 - **Sprint Retrospective:**
-
+Takım olarak ileriki süreçte daha planlı gitmeye karar verdik.
      
      
