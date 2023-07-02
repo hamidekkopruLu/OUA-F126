@@ -106,7 +106,6 @@ BMI Master
 
  - **Sprint Review**:
 Alınan kararlar: 
-Sprint Review katılımcıları:
 
 - **Sprint Retrospective:**
 Takım olarak ileriki süreçte daha planlı gitmeye karar verdik.
