@@ -91,6 +91,8 @@ BMI Master
 
 # Sprint 2
 
+- **Sprint Notları**:
+
 - **Sprint içinde tamamlanması tahmin edilen puan**: 200 Puan
 
 - **Puan tamamlama mantığı**:
