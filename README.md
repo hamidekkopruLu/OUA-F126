@@ -99,7 +99,8 @@ BMI Master
 
 - **Daily Scrum**:
 
-- **Sprint board schreenshotları**:
+- **Sprint board schreenshotları**:![image](https://github.com/hamidekkopruLu/OUA-F126/assets/136333627/0d4fa3ff-da3c-4bb4-9eb8-7f405bad10ca)
+
 
 - **Ürün Durumu**:Ekran görüntüleri:
 
