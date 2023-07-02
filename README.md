@@ -95,7 +95,7 @@ BMI Master
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 200 Puan
 
-- **Puan tamamlama mantığı**:
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 500 puanlık backlog bulunmaktadır.İkinci sprint için 200 puan olarak belirledik.
 
 - **Daily Scrum**:
 
