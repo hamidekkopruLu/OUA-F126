@@ -109,7 +109,7 @@ BMI Master
 
 
  - **Sprint Review**:
-Alınan kararlar: 
+Alınan kararlar: Uygulama, hesaplama sonucunu ve BMI kategorisini ekranda gösterir. Ayrıca, BMI kategorisine göre kullanıcıya uygun tavsiyeyi de sunar.
 
 - **Sprint Retrospective:**
 Takım olarak ileriki süreçte daha planlı gitmeye karar verdik.
