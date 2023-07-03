@@ -104,6 +104,9 @@ BMI Master
 
 - **Ürün Durumu**:Ekran görüntüleri:
 
+  ![image](https://github.com/hamidekkopruLu/OUA-F126/assets/114291299/4065d1a3-9c0b-4792-ad45-af13fed28e18)
+
+
  - **Sprint Review**:
 Alınan kararlar: 
 
