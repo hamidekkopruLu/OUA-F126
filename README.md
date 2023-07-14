@@ -91,7 +91,7 @@ BMI Master
 
 # Sprint 2
 
-- **Sprint Notları**:Uygulama içinde vereceğimiz öneriler kısmını araştırmak için rol paylaşımları yaptık. Uygulamamız içinde farklı hangi hizmetler olmalı ve  bu süreci nasıl kurgulamamız gerektiğini, bunları diğer sprinte kadar yapma kararı aldık.
+- **Sprint Notları**: Uygulama içinde vereceğimiz öneriler kısmını araştırmak için rol paylaşımları yaptık. Uygulamamız içinde farklı hangi hizmetler olmalı ve  bu süreci nasıl kurgulamamız gerektiğini, bunları diğer sprinte kadar yapma kararı aldık.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 200 Puan
 
@@ -102,7 +102,7 @@ BMI Master
 - **Sprint board schreenshotları**:![image](https://github.com/hamidekkopruLu/OUA-F126/assets/136333627/0d4fa3ff-da3c-4bb4-9eb8-7f405bad10ca)
 
 
-- **Ürün Durumu**:Ekran görüntüleri:
+- **Ürün Durumu**: Ekran görüntüleri:
 
   ![image](https://github.com/hamidekkopruLu/OUA-F126/assets/114291299/330a13b9-8205-4c27-83c8-95ef4f5dc95d)
 
