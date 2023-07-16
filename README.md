@@ -148,7 +148,7 @@ Sprint Review katılımcıları:
 - **Sprint Retrospective:**
 
   - Takım üyelerinin gelecek projelerde daha fazlailetişim halinde olmaları gerektiği söylendi.
- 
+  - Gelecek projelerde daha uygun geliştirme ortamları kullanılması gerektiği söylendi.
 
   ---
  
