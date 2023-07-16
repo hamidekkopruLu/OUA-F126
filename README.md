@@ -72,6 +72,7 @@ BMI Master
  
 - **Sprint Review**:
   -  Alınan kararlar: Uygulama taslağı çıkarılarak uygulamanın kod yazma kısmına tam olarak geçiş yapılacak.
+  -  Takım üyelerinin geliştirme sürecindeki yeni fikirleri bir dosyada toplanacak.
 
  - **Sprint Retrospective:**
  
@@ -149,6 +150,7 @@ Sprint Review katılımcıları:
 
   - Takım üyelerinin gelecek projelerde daha fazlailetişim halinde olmaları gerektiği söylendi.
   - Gelecek projelerde daha uygun geliştirme ortamları kullanılması gerektiği söylendi.
+  - Gelecek projelerde oluşabilecek ekstra problemler için önlem alınması gerektiği söylendi.
 
   ---
  
