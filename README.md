@@ -142,7 +142,15 @@ Takım olarak ileriki süreçte daha planlı gitmeye karar verdik.
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]
+
+  ![image](https://github.com/hamidekkopruLu/OUA-F126/assets/114291299/b6424e08-738b-4d35-9836-66b46c68d824)
+
+  ![image](https://github.com/hamidekkopruLu/OUA-F126/assets/114291299/3800182d-ecef-4ffa-a761-80896b34a15b)
+
+  ![image](https://github.com/hamidekkopruLu/OUA-F126/assets/114291299/c851ce07-5480-4746-8c89-eba798d4323b)
+
+
+
 
   
 - **Sprint Review**:
