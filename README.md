@@ -129,7 +129,8 @@ Takım olarak ileriki süreçte daha planlı gitmeye karar verdik.
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]![image](https://github.com/hamidekkopruLu/OUA-F126/assets/136333627/6178089a-53b1-48ed-8e23-df61e8554ab9)
+![Backlog 1]![image](![image](https://github.com/hamidekkopruLu/OUA-F126/assets/136333627/5b118e16-f392-4a40-804f-45b79fa84d61)
+
 
 
 
