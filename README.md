@@ -126,7 +126,10 @@ Takım olarak ileriki süreçte daha planlı gitmeye karar verdik.
 - **Sprint içinde tamamlanması tahmin edilen puan**: İkinci sprintten kalan 200 puanın da eklenmesiyle bu sprint için toplam puan: 200'tır.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Toplantı yapamasakta konuştuğumuz maddeler:
+- Öneriler kısmı için bir word dosyası açılması gerektiği.
+- Uygulama kodlarının yazılması konusunda biraz daha hızlı olmamız gerektiğini birbirimize hattırlattık.
+  
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1]![image](![image](https://github.com/hamidekkopruLu/OUA-F126/assets/136333627/5b118e16-f392-4a40-804f-45b79fa84d61)
@@ -144,7 +147,7 @@ Sprint Review katılımcıları:
 
 - **Sprint Retrospective:**
 
-  - Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+  - Takım üyelerinin gelecek projelerde daha fazlailetişim halinde olmaları gerektiği söylendi.
  
 
   ---
