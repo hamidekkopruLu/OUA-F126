@@ -130,8 +130,8 @@ Takım olarak ileriki süreçte daha planlı gitmeye karar verdik.
 
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Toplantı yapamasakta konuştuğumuz maddeler:
- - Öneriler kısmı için bir word dosyası açılması gerektiği,
- - Uygulama kodlarının yazılması konusunda biraz daha hızlı olmamız gerektiğini birbirimize hattırlattık.
+  - Öneriler kısmı için bir word dosyası açılması gerektiği,
+  - Uygulama kodlarının yazılması konusunda biraz daha hızlı olmamız gerektiğini birbirimize hattırlattık.
   
 
 - **Sprint board update**: Sprint board screenshotları:
