@@ -22,7 +22,7 @@ BMI Master
 
 ## Ürün Açıklaması
 
-İnsanların kolaylıkla boy ve kilosunu girerek vücut kitle endekslerine göre tavsiye alacakları bir uygulama.
+İnsanların kolaylıkla boy ve kilosunu girerek vücut kitle endekslerine göre kilo alma ve kilo verme süreçlerine yönelik tavsiye alacakları bir uygulama.
 
 ## Ürün Özellikleri
 
@@ -42,6 +42,8 @@ BMI Master
 - Bireysel vücut geliştiricileri.
 - Sağlık bilinci yüksek insanlar.
 - Uzman doktorlar.
+- Öğrencilerinin BMI Endekslerini kontrol etmek isteyen spor öğretmenleri.
+- Çocuklarının kilo durumları hakkında bilgi sahibi olmak isteyen ebeveynler.
 
 
 
