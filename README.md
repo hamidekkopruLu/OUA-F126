@@ -135,8 +135,8 @@ Takım olarak ileriki süreçte daha planlı gitmeye karar verdik.
   
 
 - **Sprint board update**: Sprint board screenshotları:
-  
-(![image](https://github.com/hamidekkopruLu/OUA-F126/assets/136333627/5b118e16-f392-4a40-804f-45b79fa84d61)
+
+![image](https://github.com/hamidekkopruLu/OUA-F126/assets/136333627/5b118e16-f392-4a40-804f-45b79fa84d61)
 
 
 
