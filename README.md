@@ -129,8 +129,7 @@ Takım olarak ileriki süreçte daha planlı gitmeye karar verdik.
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/2022-06-06%2000_19_38-Clipboard.png) 
-
+![Backlog 1]
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
