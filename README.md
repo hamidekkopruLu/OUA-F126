@@ -134,8 +134,9 @@ Takım olarak ileriki süreçte daha planlı gitmeye karar verdik.
 - Uygulama kodlarının yazılması konusunda biraz daha hızlı olmamız gerektiğini birbirimize hattırlattık.
   
 
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]!(![image](https://github.com/hamidekkopruLu/OUA-F126/assets/136333627/5b118e16-f392-4a40-804f-45b79fa84d61)
+- **Sprint board update**: Sprint board screenshotları:
+  
+(![image](https://github.com/hamidekkopruLu/OUA-F126/assets/136333627/5b118e16-f392-4a40-804f-45b79fa84d61)
 
 
 
