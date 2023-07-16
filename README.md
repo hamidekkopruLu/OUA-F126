@@ -154,7 +154,7 @@ Takım olarak ileriki süreçte daha planlı gitmeye karar verdik.
 
   
 - **Sprint Review**:
-Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir. 
+Alınan kararlar: 
 Sprint Review katılımcıları:
 
 - **Sprint Retrospective:**
