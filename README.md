@@ -154,7 +154,12 @@ Takım olarak ileriki süreçte daha planlı gitmeye karar verdik.
 
   
 - **Sprint Review**:
-Alınan kararlar: 
+Alınan kararlar:
+  - Süreç içerisinde takımca neleri daha doğru yapmalıyız? sorusu tartışıldı.
+  - Uygulamanın test aşamaları yapıldı.
+  - Sorunlar giderilmeye çalışıldı.
+ 
+
 Sprint Review katılımcıları:
 
 - **Sprint Retrospective:**
