@@ -160,7 +160,7 @@ Alınan kararlar:
   - Sorunlar giderilmeye çalışıldı.
  
 
-Sprint Review katılımcıları:
+Sprint Review katılımcıları:Hamide Köprülü 
 
 - **Sprint Retrospective:**
 
