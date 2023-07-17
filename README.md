@@ -160,7 +160,12 @@ Alınan kararlar:
   - Sorunlar giderilmeye çalışıldı.
  
 
-Sprint Review katılımcıları:Hamide Köprülü 
+Sprint Review katılımcıları: 
+  - Hamide Köprülü
+  - Ömer Turan Bayraklı
+  - Yasemin Kılınç
+  - Handenur Turan
+  - Ömer Faruk Saraç
 
 - **Sprint Retrospective:**
 
