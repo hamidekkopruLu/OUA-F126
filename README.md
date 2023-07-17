@@ -149,6 +149,9 @@ Takım olarak ileriki süreçte daha planlı gitmeye karar verdik.
 
   ![image](https://github.com/hamidekkopruLu/OUA-F126/assets/114291299/c851ce07-5480-4746-8c89-eba798d4323b)
 
+  ![image](https://github.com/hamidekkopruLu/OUA-F126/assets/114291299/07887d5a-2906-4e8b-8b39-836d9d210183)
+
+
 
 
 
